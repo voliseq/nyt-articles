@@ -1,0 +1,27 @@
+{
+  "name": "nyc-articles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voliseq/nyt-articles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voliseq/nyt-articles/issues"
+  },
+  "homepage": "https://github.com/voliseq/nyt-articles#readme"
+}

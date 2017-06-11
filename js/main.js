@@ -110,12 +110,13 @@
                 _articles = [];
             };
 
-            _sortArticles = (date1, date2) => {
-              return new Date(date2) - new Date(date1);
+            _sortArticles = (el1, el2) => {
+              return (new Date(el1.pub_date) - new Date(el2.pub_date));
             };
 
             _createArticles = (articles_raw) => {
                 _removeArticles();
+                articles_raw.sort(_sortArticles);
                 articles_raw.forEach((article_raw) => {
                     let new_article = new Article();
                     new_article.fill(article_raw);
@@ -131,11 +132,7 @@
             };
 
             _filterArticles = () => {
-                console.log(begin_date, end_date)
                 nyt.getArticles(nyt.url, begin_date, end_date, page).done((result) => {
-
-
-                    console.log(result.response.docs);
 
                     _createArticles(result.response.docs);
                     _attachArticles();

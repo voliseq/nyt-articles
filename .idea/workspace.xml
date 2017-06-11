@@ -21,28 +21,62 @@
       <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="4" column="1211" lean-forward="true" selection-start-line="4" selection-start-column="1211" selection-end-line="4" selection-end-column="1211" />
+            <state relative-caret-position="88">
+              <caret line="4" column="1211" lean-forward="false" selection-start-line="4" selection-start-column="1211" selection-end-line="4" selection-end-column="1211" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+            <state relative-caret-position="418">
+              <caret line="82" column="32" lean-forward="false" selection-start-line="82" selection-start-column="32" selection-end-line="82" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="datepicker-setup.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/datepicker-setup.js">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#43#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HELP-US-OUT.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/font-awesome/HELP-US-OUT.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <marker date="1497223499446" expanded="true" signature="0:595" ph="{&quot;name&quot;: &quot;nyc-articles&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -62,21 +96,21 @@
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="710">
-              <caret line="562" column="16" lean-forward="true" selection-start-line="562" selection-start-column="16" selection-end-line="562" selection-end-column="16" />
+              <caret line="562" column="16" lean-forward="false" selection-start-line="562" selection-start-column="16" selection-end-line="562" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="119" column="52" lean-forward="true" selection-start-line="119" selection-start-column="52" selection-end-line="119" selection-end-column="52" />
+            <state relative-caret-position="2728">
+              <caret line="124" column="14" lean-forward="true" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
               <folding>
-                <marker date="1497222661395" expanded="true" signature="716:1131" ph="..." />
-                <marker date="1497222661395" expanded="true" signature="872:1064" ph="..." />
-                <marker date="1497222661395" expanded="true" signature="967:973" ph=" " />
+                <marker date="1497224034871" expanded="true" signature="716:1131" ph="..." />
+                <marker date="1497224034871" expanded="true" signature="872:1064" ph="..." />
+                <marker date="1497224034871" expanded="true" signature="967:973" ph=" " />
               </folding>
             </state>
           </provider>
@@ -85,46 +119,9 @@
       <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/api.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="264">
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-datepicker3.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap-datepicker3.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-datepicker.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap-datepicker.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1470383780000" expanded="false" signature="0:248" ph="/*...*/" />
-                <marker date="1470383780000" expanded="true" signature="388:34170" ph="{...}" />
-                <marker date="1470383780000" expanded="true" signature="29443:33123" ph="{&quot;headTemplate&quot;: '&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;7&quot; class=&quot;datepicker-title&quot;&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;prev&quot;&gt;&amp;laquo;&lt;/th&gt;&lt;th colspan=&quot;5&quot; class=&quot;datepicker-switch&quot;&gt;&lt;/th&gt;&lt;th class=&quot;next&quot;&gt;&amp;raquo;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;'...}" />
-                <marker date="1470383780000" expanded="true" signature="32211:32742" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -157,9 +154,12 @@
         <option value="$PROJECT_DIR$/js/plugins.js" />
         <option value="$PROJECT_DIR$/js/datepicker-setup.js" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/api.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -174,6 +174,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1358" />
@@ -218,7 +221,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="font-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nyc-articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nyc-articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-awesome.css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nyc-articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nyc-articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,12 +366,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497052277301</updated>
-      <workItem from="1497052288607" duration="30448000" />
+      <workItem from="1497052288607" duration="32505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30448000" />
+    <option name="totallyTimeSpent" value="32505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
@@ -345,7 +384,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.093361" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39937758" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -419,15 +458,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="4" column="1211" lean-forward="true" selection-start-line="4" selection-start-column="1211" selection-end-line="4" selection-end-column="1211" />
+        <state relative-caret-position="88">
+          <caret line="4" column="1211" lean-forward="false" selection-start-line="4" selection-start-column="1211" selection-end-line="4" selection-end-column="1211" />
           <folding />
         </state>
       </provider>
@@ -435,7 +474,7 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="710">
-          <caret line="562" column="16" lean-forward="true" selection-start-line="562" selection-start-column="16" selection-end-line="562" selection-end-column="16" />
+          <caret line="562" column="16" lean-forward="false" selection-start-line="562" selection-start-column="16" selection-end-line="562" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -456,31 +495,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/api.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="132">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1497223499446" expanded="true" signature="0:595" ph="{&quot;name&quot;: &quot;nyc-articles&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="119" column="52" lean-forward="true" selection-start-line="119" selection-start-column="52" selection-end-line="119" selection-end-column="52" />
+        <state relative-caret-position="2728">
+          <caret line="124" column="14" lean-forward="true" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
           <folding>
-            <marker date="1497222661395" expanded="true" signature="716:1131" ph="..." />
-            <marker date="1497222661395" expanded="true" signature="872:1064" ph="..." />
-            <marker date="1497222661395" expanded="true" signature="967:973" ph=" " />
+            <marker date="1497224034871" expanded="true" signature="716:1131" ph="..." />
+            <marker date="1497224034871" expanded="true" signature="872:1064" ph="..." />
+            <marker date="1497224034871" expanded="true" signature="967:973" ph=" " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome/HELP-US-OUT.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="82" column="32" lean-forward="false" selection-start-line="82" selection-start-column="32" selection-end-line="82" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
