@@ -21,14 +21,29 @@
 
     <div class="container">
         <div class="row date-row">
-
-            <div class="input-daterange input-group" id="datepicker">
-                <input type="text" class="input-sm form-control" name="start" />
-                <span class="input-group-addon">to</span>
-                <input type="text" class="input-sm form-control" name="end" />
+            <div class="col-sm-6 no-padding">
+                <div class="input-group date start-date">
+                    <input type="text" class="form-control"><span class="input-group-addon"><i
+                    class="glyphicon glyphicon-th"></i></span>
+                </div>
             </div>
-
+            <div class="col-sm-6 no-padding">
+                <div class="input-group date end-date">
+                    <input type="text" class="form-control"><span class="input-group-addon"><i
+                    class="glyphicon glyphicon-th"></i></span>
+                </div>
+            </div>
         </div>
+
+        <div class="row">
+            <div class="col-sm-6 no-padding">
+                <button class="btn btn-info navi" id="prev">Previous page</button>
+            </div>
+            <div class="col-sm-6 no-padding">
+                <button class="btn btn-primary navi" id="next">Next page</button>
+            </div>
+        </div>
+
         <div class="row">
             <div class="col-md-4 col-sm-6 col-padd">
                 <!-- Outer block -->
@@ -57,25 +72,11 @@
 
 </div>
 
-    <input class="datepicker" data-date-format="mm/dd/yyyy" value = "from">
-
-
-
-
-
-
-
-
-
-
-
-
 
 <script src="js/vendor/jquery-1.12.0.min.js"></script>
 <script src="js/vendor/bootstrap.min.js"></script>
 <script src="js/vendor/bootstrap-datepicker.min.js"></script>
 <script src="js/api.js"></script>
-<script src="js/datepicker-setup.js"></script>
 <script src="js/main.js"></script>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->

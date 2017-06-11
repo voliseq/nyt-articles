@@ -506,7 +506,6 @@ hr {
 .youtube {background: #ed5441;}
 .youtube:hover {	background: #b72411;}
 
-/* UI X */
 body{
     background:#f4f8fd;
 }
@@ -518,7 +517,6 @@ body{
 }
 .nyt-articles .col-block{
     background:#fdfdfd;
-    padding:20px 25px;
     box-shadow:inset 0px 0px 2px rgba(0,0,0,0.2);
 }
 .nyt-articles .col-block:hover{
@@ -531,9 +529,10 @@ body{
     line-height:23px;
     color:#fff;
     text-transform:uppercase;
+    margin-bottom: 10px;
 }
 .nyt-articles .item{
-    margin:20px 0px;
+    padding: 25px;
     border-bottom:1px solid rgba(0,0,0,0.1);
 }
 .nyt-articles .item h3{
@@ -556,4 +555,10 @@ body{
     line-height:28px;
     color:#888;
     margin-bottom:20px;
+}
+.no-padding{
+    padding: 0;
+}
+.navi{
+    width: 100%;
 }
