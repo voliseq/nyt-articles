@@ -7,8 +7,8 @@
             hour = date.getHours(),
             minutes = date.getMinutes();
 
-        minutes = minutes < 10 ? "0" + (minutes + 1) : minutes;
-        hour = hour < 10 ? "0" + (hour + 1) : hour;
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        hour = hour < 10 ? "0" + hour : hour;
         month = month < 10 ? "0" + (month + 1) : month;
         day = day < 10 ? "0" + (day) : String(day);
 
